@@ -1,2 +1,2 @@
 # GitDemo
-this i m fist git folder
+this is my fist git folder
